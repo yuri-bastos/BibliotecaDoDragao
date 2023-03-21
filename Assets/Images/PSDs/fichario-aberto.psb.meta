@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 34c62122f546053478a97bb235475164
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: MARCADOR VERMELHO DESTACADO COM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1504
+      y: 1245
+      width: 243
+      height: 171
+    spriteID: 018e8b3b8c8763c48afb19f173d16fe3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -277, y: 192}
+  - name: MARCADOR VERMELHO COM TEXTO NORMAL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1755
+      y: 1245
+      width: 243
+      height: 171
+    spriteID: b8587ff54e260ab44bbfd45a8ef5ab36
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -26, y: 192}
+  - name: MARCADOR LARANJA SEM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1245
+      width: 242
+      height: 173
+    spriteID: 2f610e3ae209b404782159f29f2b88ba
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1778, y: 365}
+  - name: MARCADOR LARANJA DESTACADO COM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 1245
+      width: 242
+      height: 173
+    spriteID: dba63f20f50e5b84ab1059455a610806
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1528, y: 365}
+  - name: MARCADOR LARANJA COM TEXTO NORMAL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 504
+      y: 1245
+      width: 242
+      height: 173
+    spriteID: 3b956a792bdfdb5469fd47fcbcfc4f5b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1278, y: 365}
+  - name: MARCADOR AMARELO SEM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 751
+      y: 1426
+      width: 242
+      height: 171
+    spriteID: 222260554fa5c4a4f938a67f2e3cf011
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1031, y: 717}
+  - name: MARCADOR AMARELO DESTACADO COM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1001
+      y: 1426
+      width: 242
+      height: 171
+    spriteID: ca5d5ae75e802cb409429c7a7521171e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -781, y: 717}
+  - name: MARCADOR AMARELO COM TEXTO NORMAL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1251
+      y: 1426
+      width: 242
+      height: 171
+    spriteID: 6916585f2b52932498768ca1d0a2e675
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -531, y: 717}
+  - name: MARCADOR VERDE SEM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1501
+      y: 1426
+      width: 242
+      height: 171
+    spriteID: 90391855c76945646823f6410ab26df1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -281, y: 888}
+  - name: MARCADOR VERDE DESTACADO COM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1751
+      y: 1426
+      width: 242
+      height: 171
+    spriteID: c0df4c6f00aa0ff43a7118bb312c7bcd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -31, y: 888}
+  - name: MARCADOR VERDE COM TEXTO NORMAL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1606
+      width: 242
+      height: 171
+    spriteID: 9e080c28e40f32c4e882c1639b6753e7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1778, y: 1068}
+  - name: MARCADOR AZUL CLARO SEM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 754
+      y: 1245
+      width: 242
+      height: 172
+    spriteID: 56f01f00beb5b294f8bc06f3b3069bb0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1028, y: 879}
+  - name: MARCADOR AZUL CLARO DESTACADO COM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1004
+      y: 1245
+      width: 242
+      height: 172
+    spriteID: 03d5f149525f00e4a808f87f97b99603
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -778, y: 879}
+  - name: MARCADOR AZUL CLARO COM TEXTO NORMAL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1254
+      y: 1245
+      width: 242
+      height: 172
+    spriteID: b44596a6fbcea5e418eb54f89756e518
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -528, y: 879}
+  - name: MARCADOR VIOLETA SEM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1426
+      width: 241
+      height: 172
+    spriteID: aaf27d2bdf66f7040bf7eb9589139b8f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1779, y: 1231}
+  - name: MARCADOR VIOLETA DESTACADO COM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 1426
+      width: 241
+      height: 172
+    spriteID: ad4e45b236e89e147a6a00d1ec277bb6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1530, y: 1231}
+  - name: MARCADOR VIOLETA COM TEXTO NORMAL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 502
+      y: 1426
+      width: 241
+      height: 172
+    spriteID: 44da891273556cb4fa58e279e6e412df
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1281, y: 1231}
+  - name: MARCADOR ROXO SEM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 1606
+      width: 242
+      height: 171
+    spriteID: 19a1ba6042529a14497cce87ee46c245
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1528, y: 1583}
+  - name: MARCADOR ROXO DESTACADO COM TEXTO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 504
+      y: 1606
+      width: 242
+      height: 171
+    spriteID: 0c77de77a703c8747971c24cf05802ec
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1278, y: 1583}
+  - name: MARCADOR ROXO COM TEXTO NORMAL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 754
+      y: 1606
+      width: 242
+      height: 171
+    spriteID: ab9f01d609be80f4584429892940570e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1028, y: 1583}
+  - name: FICHARIO
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1903
+      height: 1233
+    spriteID: 31582d1d5510e2f4fbf6c2de7f693e04
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2024, y: 1233}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: MARCADOR VERMELHO DESTACADO COM TEXTO
+    spriteName: MARCADOR VERMELHO DESTACADO COM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 018e8b3b8c8763c48afb19f173d16fe3
+    layerID: 43
+    mosaicPosition: {x: 1504, y: 1245}
+  - name: MARCADOR VERMELHO COM TEXTO NORMAL
+    spriteName: MARCADOR VERMELHO COM TEXTO NORMAL
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b8587ff54e260ab44bbfd45a8ef5ab36
+    layerID: 35
+    mosaicPosition: {x: 1755, y: 1245}
+  - name: MARCADOR LARANJA SEM TEXTO
+    spriteName: MARCADOR LARANJA SEM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2f610e3ae209b404782159f29f2b88ba
+    layerID: 48
+    mosaicPosition: {x: 4, y: 1245}
+  - name: MARCADOR LARANJA DESTACADO COM TEXTO
+    spriteName: MARCADOR LARANJA DESTACADO COM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dba63f20f50e5b84ab1059455a610806
+    layerID: 52
+    mosaicPosition: {x: 254, y: 1245}
+  - name: MARCADOR LARANJA COM TEXTO NORMAL
+    spriteName: MARCADOR LARANJA COM TEXTO NORMAL
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3b956a792bdfdb5469fd47fcbcfc4f5b
+    layerID: 31
+    mosaicPosition: {x: 504, y: 1245}
+  - name: MARCADOR AMARELO SEM TEXTO
+    spriteName: MARCADOR AMARELO SEM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 222260554fa5c4a4f938a67f2e3cf011
+    layerID: 56
+    mosaicPosition: {x: 751, y: 1426}
+  - name: MARCADOR AMARELO DESTACADO COM TEXTO
+    spriteName: MARCADOR AMARELO DESTACADO COM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ca5d5ae75e802cb409429c7a7521171e
+    layerID: 60
+    mosaicPosition: {x: 1001, y: 1426}
+  - name: MARCADOR AMARELO COM TEXTO NORMAL
+    spriteName: MARCADOR AMARELO COM TEXTO NORMAL
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6916585f2b52932498768ca1d0a2e675
+    layerID: 27
+    mosaicPosition: {x: 1251, y: 1426}
+  - name: MARCADOR VERDE SEM TEXTO
+    spriteName: MARCADOR VERDE SEM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 90391855c76945646823f6410ab26df1
+    layerID: 64
+    mosaicPosition: {x: 1501, y: 1426}
+  - name: MARCADOR VERDE DESTACADO COM TEXTO
+    spriteName: MARCADOR VERDE DESTACADO COM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c0df4c6f00aa0ff43a7118bb312c7bcd
+    layerID: 68
+    mosaicPosition: {x: 1751, y: 1426}
+  - name: MARCADOR VERDE COM TEXTO NORMAL
+    spriteName: MARCADOR VERDE COM TEXTO NORMAL
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9e080c28e40f32c4e882c1639b6753e7
+    layerID: 23
+    mosaicPosition: {x: 4, y: 1606}
+  - name: MARCADOR AZUL CLARO SEM TEXTO
+    spriteName: MARCADOR AZUL CLARO SEM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 56f01f00beb5b294f8bc06f3b3069bb0
+    layerID: 72
+    mosaicPosition: {x: 754, y: 1245}
+  - name: MARCADOR AZUL CLARO DESTACADO COM TEXTO
+    spriteName: MARCADOR AZUL CLARO DESTACADO COM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 03d5f149525f00e4a808f87f97b99603
+    layerID: 76
+    mosaicPosition: {x: 1004, y: 1245}
+  - name: MARCADOR AZUL CLARO COM TEXTO NORMAL
+    spriteName: MARCADOR AZUL CLARO COM TEXTO NORMAL
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b44596a6fbcea5e418eb54f89756e518
+    layerID: 19
+    mosaicPosition: {x: 1254, y: 1245}
+  - name: MARCADOR VIOLETA SEM TEXTO
+    spriteName: MARCADOR VIOLETA SEM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aaf27d2bdf66f7040bf7eb9589139b8f
+    layerID: 80
+    mosaicPosition: {x: 4, y: 1426}
+  - name: MARCADOR VIOLETA DESTACADO COM TEXTO
+    spriteName: MARCADOR VIOLETA DESTACADO COM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ad4e45b236e89e147a6a00d1ec277bb6
+    layerID: 84
+    mosaicPosition: {x: 253, y: 1426}
+  - name: MARCADOR VIOLETA COM TEXTO NORMAL
+    spriteName: MARCADOR VIOLETA COM TEXTO NORMAL
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 44da891273556cb4fa58e279e6e412df
+    layerID: 15
+    mosaicPosition: {x: 502, y: 1426}
+  - name: MARCADOR ROXO SEM TEXTO
+    spriteName: MARCADOR ROXO SEM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 19a1ba6042529a14497cce87ee46c245
+    layerID: 88
+    mosaicPosition: {x: 254, y: 1606}
+  - name: MARCADOR ROXO DESTACADO COM TEXTO
+    spriteName: MARCADOR ROXO DESTACADO COM TEXTO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0c77de77a703c8747971c24cf05802ec
+    layerID: 92
+    mosaicPosition: {x: 504, y: 1606}
+  - name: MARCADOR ROXO COM TEXTO NORMAL
+    spriteName: MARCADOR ROXO COM TEXTO NORMAL
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ab9f01d609be80f4584429892940570e
+    layerID: 11
+    mosaicPosition: {x: 754, y: 1606}
+  - name: FICHARIO
+    spriteName: FICHARIO
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 31582d1d5510e2f4fbf6c2de7f693e04
+    layerID: 7
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: fichario-aberto Texture
+  prefabAssetName: fichario-aberto Prefab
+  spriteLibAssetName: fichario-aberto Sprite Lib
+  secondarySpriteTextures: []
